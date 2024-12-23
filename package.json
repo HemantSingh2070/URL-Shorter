@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "",
+  "author": "HemantSingh",
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.6",
