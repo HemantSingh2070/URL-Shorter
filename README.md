@@ -10,6 +10,7 @@ Clone this repository to your local machine using:
 
 ```bash
 git clone <repository_url>
+```
 # URL-Shortner - Dependencies and Future Enhancements
 
 ## Dependencies
